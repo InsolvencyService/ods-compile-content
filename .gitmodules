@@ -1,0 +1,6 @@
+[submodule "ods-static"]
+	path = ods-static
+	url = https://github.com/InsolvencyService/ods-static
+[submodule "govuk_elements"]
+	path = govuk_elements
+	url = https://github.com/InsolvencyService/govuk_elements.git
